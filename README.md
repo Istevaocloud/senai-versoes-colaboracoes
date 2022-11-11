@@ -2,4 +2,4 @@
 
 README Exemplo
 
-lembrei do comando: git status
+lembrei do comamdo: git commit
